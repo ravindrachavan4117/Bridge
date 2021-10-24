@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-24T13:05:52 IST" name="Default suite" finished-at="2021-10-24T13:06:10 IST" duration-ms="17337">
+    <groups>
+    </groups>
+    <test started-at="2021-10-24T13:05:52 IST" name="Default test" finished-at="2021-10-24T13:06:10 IST" duration-ms="17337">
+      <class name="think.Bridges.Quetion2">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:think.Bridges.Quetion2@1fb700ee]" started-at="2021-10-24T13:05:52 IST" name="openBrowser" finished-at="2021-10-24T13:05:56 IST" duration-ms="3660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="travelWebsites()[pri:0, instance:think.Bridges.Quetion2@1fb700ee]" started-at="2021-10-24T13:05:56 IST" name="travelWebsites" finished-at="2021-10-24T13:06:09 IST" duration-ms="13458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- travelWebsites -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:think.Bridges.Quetion2@1fb700ee]" started-at="2021-10-24T13:06:09 IST" name="closeBrowser" finished-at="2021-10-24T13:06:10 IST" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- think.Bridges.Quetion2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
