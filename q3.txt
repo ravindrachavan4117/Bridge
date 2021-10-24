@@ -1,0 +1,8 @@
+1) backround colour of sheet
+2)size  utilization not properly
+3)Header fonts is very small
+5)position of header element is not proper
+4)line is dark or in some area no need of line
+5)position of image box is ok but formate is not user frindly
+6)after selecting check box colour will be green
+7)both logo are at both corner at left or right
